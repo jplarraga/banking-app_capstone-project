@@ -1,4 +1,4 @@
-# Banking application Capstone pROJECT
+# Banking application Capstone Project
 A simple bank application with all the components of a bank.
 
 <h2>Description</h2>
